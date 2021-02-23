@@ -8,11 +8,11 @@
 
 ### 接口地址
 
-|接口类型                   | URL                                    | 传递参数                   |token|
-| ----------------------- | -------------------------------------- | -------------------------- | --- |
-|http                      |http://imnu.52king.cn/api/wk/index.php  |  c=问题                    |无    |
-|微信公众号                | http://imnu.52king.cn/api/wk/v1.php    | 无                         | weixin|
-|微信公众号（语音查题）                | http://imnu.52king.cn/api/wk/v2.php    | 无                         | weixin|
+|接口类型                   | URL                                    | 传递参数                   |token|每天免费调用次数|
+| ----------------------- | -------------------------------------- | -------------------------- | --- |-----|
+|http                      |http://imnu.52king.cn/api/wk/index.php  |  c=问题                    |无    |20000|
+|微信公众号                | http://imnu.52king.cn/api/wk/v1.php    | 无                         | weixin|无限制|
+|微信公众号（语音查题）                | http://imnu.52king.cn/api/wk/v2.php    | 无                         | weixin|无限制|
  
 
 
