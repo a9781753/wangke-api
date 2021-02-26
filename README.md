@@ -6,6 +6,12 @@
 
 #### 题目数据来源于互联网，非爬取网课平台题库，如有侵权请联系删除
 
+### 脚本下载地址
+
+视频+测验：imnu.52king.cn/api/wk/xxtsk.user
+
+考试：imnu.52king.cn/api/wk/xxtks.user
+
 ### 接口地址
 
 |接口类型                   | URL                                    | 传递参数                   |token|每天免费调用次数|
