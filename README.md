@@ -8,9 +8,9 @@
 
 ### 脚本下载地址
 
-视频+测验：imnu.52king.cn/api/wk/xxtsk.user
+视频+测验： [http://imnu.52king.cn/api/wk/xxtsk.user](http://imnu.52king.cn/api/wk/xxtsk.user)
 
-考试：imnu.52king.cn/api/wk/xxtks.user
+考试： [http://imnu.52king.cn/api/wk/xxtks.user](http://imnu.52king.cn/api/wk/xxtks.user)
 
 ### 接口地址
 
