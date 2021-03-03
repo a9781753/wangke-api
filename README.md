@@ -8,6 +8,8 @@
 
 ### 脚本下载地址
 
+油猴脚本，下载完了自己复制到油猴里使用吧。
+
 视频+测验： [http://imnu.52king.cn/api/wk/xxtsk.user](http://imnu.52king.cn/api/wk/xxtsk.user)
 
 考试： [http://imnu.52king.cn/api/wk/xxtks.user](http://imnu.52king.cn/api/wk/xxtks.user)
