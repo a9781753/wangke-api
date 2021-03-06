@@ -14,7 +14,7 @@
 
 考试： [http://imnu.52king.cn/api/wk/xxtks.user](http://imnu.52king.cn/api/wk/xxtks.user)
 
-[不用用脚本的直接下载专用浏览器吧](https://cloud.189.cn/t/nqUzMj2mEVFz)（访问码：d2co）
+[不会用脚本的直接下载专用浏览器吧](https://cloud.189.cn/t/nqUzMj2mEVFz)（访问码：d2co）
 
 ### 接口地址
 
