@@ -21,10 +21,10 @@
 
 ### 接口地址
 
-|接口类型                   | URL                                    | 传递参数                   |token|每天调用总数|
+|接口类型                   | URL                                    | 传递参数                   |token|调用次数|
 | ----------------------- | -------------------------------------- | -------------------------- | --- |-----|
-|http                      |http://imnu.52king.cn/api/wk/index.php  |  c=问题                    |无 |本接口每日免费查询10w次|
-|http收费接口                      |http://nw.52king.cn/api/wk/vip.php  |  c=问题&token=你购买的token                   |[购买token](http://imnu.52king.cn/wk/?cid=7&tid=16)   |20000|
+|http                      |http://imnu.52king.cn/api/wk/index.php  |  c=问题                    |无 |本接口每日免费查询5w次|
+|http收费接口                      |http://nw.52king.cn/api/wk/vip.php  |  c=问题&token=你购买的token                   |联系微信97081753购买次数  |每月15W次|
 |微信公众号                | http://imnu.52king.cn/api/wk/v1.php    | 无                         | weixin|无限制|
 |微信公众号（语音查题）                | http://imnu.52king.cn/api/wk/v2.php    | 无                         | weixin|无限制|
  
