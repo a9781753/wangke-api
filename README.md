@@ -6,15 +6,15 @@
 
 #### 题目数据来源于互联网，非爬取网课平台题库，如有侵权请联系删除
 
-~~### 脚本下载地址
+~~### 脚本下载地址~~
 
-~~油猴脚本，下载完了自己复制到油猴里使用吧。
+~~油猴脚本，下载完了自己复制到油猴里使用吧。~~
 
-~~视频+测验： [http://imnu.52king.cn/api/wk/xxtsk.user](http://imnu.52king.cn/api/wk/xxtsk.user)
+~~视频+测验： [http://imnu.52king.cn/api/wk/xxtsk.user](http://imnu.52king.cn/api/wk/xxtsk.user)~~
 
-~~考试： [http://imnu.52king.cn/api/wk/xxtks.user](http://imnu.52king.cn/api/wk/xxtks.user)
+~~考试： [http://imnu.52king.cn/api/wk/xxtks.user](http://imnu.52king.cn/api/wk/xxtks.user)~~
 
-~~[不会用脚本的直接下载专用浏览器吧](https://cloud.189.cn/t/nqUzMj2mEVFz)（访问码：d2co）
+~~[不会用脚本的直接下载专用浏览器吧](https://cloud.189.cn/t/nqUzMj2mEVFz)（访问码：d2co）~~
 
 ### 刷课平台开户 联系微信9781753，备注开户
 
